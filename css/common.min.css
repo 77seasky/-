@@ -1,0 +1,13 @@
+html,body,h1,h2,h3,ul,dl,ol,li,dt,dd,img,input,p{margin:0;padding:0}
+body{font:normal normal 12px "Î¢ÈíÑÅºÚ"}
+input,button{border:0}
+h1,h2,h3,b,s,i{font-style:normal;font-weight:normal}
+a{text-decoration:none;color:#666}
+a:hover{color:#fff600}
+li,dd,dt{list-style:none}
+img{border:0}
+.fl{float:left}
+.fr{float:right}
+.clearfix:after{content:"";height:0;line-height:0;display:block;clear:both;visibility:hidden}
+.clearfix{zoom:1}
+.w{width:1200px;margin:0 auto}
